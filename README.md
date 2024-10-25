@@ -37,14 +37,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RubensGJ/RubensGJ/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/c20g3hsvbjti8nowet83eat79">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=c20g3hsvbjti8nowet83eat79&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
