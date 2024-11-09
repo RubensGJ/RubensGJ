@@ -1,17 +1,1 @@
-name: Update Spotify README
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'  # Atualiza a cada 30 minutos
-  workflow_dispatch:  # Permite rodar manualmente
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: kittinan/readme-spotify@main
-        with:
-          client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
