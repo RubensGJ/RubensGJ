@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas e Suporte em TI.</h5>
+<h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalhando como Suporte TI.</h5>
 
 ###
 
